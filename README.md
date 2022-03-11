@@ -1,10 +1,5 @@
 
 
-<p style="'display' : 'inline-block'; float: 'right'">
-	<a href="https://app.daily.dev/YousefRabie"><img src="https://api.daily.dev/devcards/5fe499169423465eb502793da97b755e.png?r=q8w" width="400" alt="Yousef Rabie Khalil's 		Dev Card"/>
-	</a>
-</p>
-
 ### Hi there 👋
 
 Yousef Rabie khali
@@ -49,6 +44,11 @@ SKILLS
  * Jenkins
  * AWS amazon, Auzre Microsoft
  * Shopify, Deleverict, Tookan, Wordpress integrator
+
+<div style="display: 'inline-block'; float: 'right'">
+	<a href="https://app.daily.dev/YousefRabie"><img src="https://api.daily.dev/devcards/5fe499169423465eb502793da97b755e.png?r=q8w" width="400" alt="Yousef Rabie Khalil's 		Dev Card"/>
+	</a>
+</div>
 
 WORK EXPERIENCE
   * May 2020 – Present
