@@ -18,10 +18,19 @@ PERSONAL INFORMATION
  * Nationality: Egyption
 
 SOCIAL PROFILES
-  * Linked In: https://www.linkedin.com/in/yousef-rabie-khalil-a3a0b3141/
-  * Github: https://github.com/YousefRabieKhalil
-  * stackoverflow : https://stackoverflow.com/users/5126432/yousef-rabie-khalil
-  * Gitlab: https://gitlab.com/YousefRabie
+	<p align="center">
+		<a href="https://www.linkedin.com/in/yousef-rabie-khalil-a3a0b3141/" target="_blank">
+			![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+		</a>
+		<a href="https://stackoverflow.com/users/5126432/yousef-rabie-khalil" target="_blank">
+			![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+		</a>
+		<a href="https://www.facebook.com/yousefRabiekhalil" target="_blank">
+			![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+		</a>
+		<a href="https://app.daily.dev/YousefRabie"><img align="right" src="https://api.daily.dev/devcards/5fe499169423465eb502793da97b755e.png?r=q8w" width="256" alt="Yousef Rabie Khalil's Dev Card"/>
+	</a>
+	</p>
 
 
 SKILLS
@@ -44,12 +53,6 @@ SKILLS
  * Jenkins
  * AWS amazon, Auzre Microsoft
  * Shopify, Deleverict, Tookan, Wordpress integrator
-
-<div style="display: 'inline-block'; float: 'right'">
-	<a href="https://app.daily.dev/YousefRabie"><img src="https://api.daily.dev/devcards/5fe499169423465eb502793da97b755e.png?r=q8w" width="400" alt="Yousef Rabie Khalil's 		Dev Card"/>
-	</a>
-</div>
-
 WORK EXPERIENCE
   * May 2020 – Present
     Senior backend Developer & Integration Specialist at EButler, Qatar, Doha
