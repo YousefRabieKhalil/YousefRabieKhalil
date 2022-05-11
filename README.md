@@ -53,6 +53,7 @@ SKILLS
  * Jenkins
  * AWS amazon, Auzre Microsoft
  * Shopify, Deleverict, Tookan, Wordpress integrator
+
 WORK EXPERIENCE
   * May 2020 – Present
     Senior backend Developer & Integration Specialist at EButler, Qatar, Doha
