@@ -134,7 +134,7 @@ Senior Backend Developer with **7+ years** of experience building scalable SaaS 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefrabie&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YousefRabieKhalil&show_icons=true&theme=dark)
 
 ---
 
