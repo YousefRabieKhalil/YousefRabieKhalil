@@ -1,9 +1,9 @@
 # Yousef Rabie Khalil
 ## Senior Software Engineer | Backend & Integration Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousefrabie-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yousefrabie)
-[![GitHub](https://img.shields.io/badge/GitHub-yousefrabie-black?style=flat-square&logo=github)](https://github.com/yousefrabie)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-yousefrabie-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/yousefrabie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousefrabie-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yousef-rabie-khalil)
+[![GitHub](https://img.shields.io/badge/GitHub-yousefrabie-black?style=flat-square&logo=github)](https://github.com/YousefRabieKhalil)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-yousefrabie-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/yousef-rabie-khalil)
 [![Email](https://img.shields.io/badge/Email-yousef.rabie@cis.asu.edu.eg-red?style=flat-square&logo=gmail)](mailto:yousef.rabie@cis.asu.edu.eg)
 
 📍 Cairo, Egypt | 📧 yousef.rabie@cis.asu.edu.eg | 📱 +201017931092
@@ -143,9 +143,9 @@ Senior Backend Developer with **7+ years** of experience building scalable SaaS 
 I'm always interested in discussing new opportunities, collaborations, or just talking tech!
 
 - 📧 Email: [yousef.rabie@cis.asu.edu.eg](mailto:yousef.rabie@cis.asu.edu.eg)
-- 💼 LinkedIn: [linkedin.com/in/yousefrabie](https://www.linkedin.com/in/yousefrabie)
-- 💻 GitHub: [github.com/yousefrabie](https://github.com/yousefrabie)
-- 📚 Stack Overflow: [stackoverflow.com/users/yousefrabie](https://stackoverflow.com/users/yousefrabie)
+- 💼 LinkedIn: [linkedin.com/in/yousefrabie]([https://www.linkedin.com/in/yousef-rabie-khalil](https://www.linkedin.com/in/yousef-rabie-khalil/))
+- 💻 GitHub: [github.com/yousefrabie](https://github.com/YousefRabieKhalil)
+- 📚 Stack Overflow: [stackoverflow.com/users/yousef-rabie-khalil](https://stackoverflow.com/users/yousef-rabie-khalil)
 
 ---
 
