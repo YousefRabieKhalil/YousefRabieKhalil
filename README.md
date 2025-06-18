@@ -143,8 +143,8 @@ Senior Backend Developer with **7+ years** of experience building scalable SaaS 
 I'm always interested in discussing new opportunities, collaborations, or just talking tech!
 
 - 📧 Email: [yousef.rabie@cis.asu.edu.eg](mailto:yousef.rabie@cis.asu.edu.eg)
-- 💼 LinkedIn: [linkedin.com/in/yousefrabie]([https://www.linkedin.com/in/yousef-rabie-khalil](https://www.linkedin.com/in/yousef-rabie-khalil/))
-- 💻 GitHub: [github.com/yousefrabie](https://github.com/YousefRabieKhalil)
+- 💼 LinkedIn: [linkedin.com/in/yousef-rabie-khalil](https://www.linkedin.com/in/yousef-rabie-khalil/)
+- 💻 GitHub: [github.com/YousefRabieKhalil](https://github.com/YousefRabieKhalil)
 - 📚 Stack Overflow: [stackoverflow.com/users/yousef-rabie-khalil](https://stackoverflow.com/users/yousef-rabie-khalil)
 
 ---
