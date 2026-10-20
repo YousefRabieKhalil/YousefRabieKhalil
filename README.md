@@ -1,105 +1,69 @@
-# Yousef Rabie Khalil  
-### Senior Software Engineer · Backend & Integration Specialist  
+# Yousef Rabie Khalil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yousefrabie-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yousef-rabie-khalil)
-[![GitHub](https://img.shields.io/badge/GitHub-yousefrabie-black?style=flat-square&logo=github)](https://github.com/YousefRabieKhalil)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-yousefrabie-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/yousef-rabie-khalil)
-[![Email](https://img.shields.io/badge/Email-yousef.rabie@cis.asu.edu.eg-red?style=flat-square&logo=gmail)](mailto:yousef.rabie@cis.asu.edu.eg)
+### Senior Software Engineer at AI71
 
-📍 Cairo, Egypt | 📧 yousef.rabie@cis.asu.edu.eg | 📱 +20 101 793 1092  
+**Python & React · Backend Systems · Full-Stack Development**
 
----
+[Portfolio](https://yousef-rabie.com) · [LinkedIn](https://www.linkedin.com/in/yousef-rabie-khalil/) · [Stack Overflow](https://stackoverflow.com/users/5126432/yousef-rabie-khalil) · [Email](mailto:contact@yousef-rabie.com)
 
-## 👋 About Me
-Back-end engineer with **7 + years** building SaaS and marketplace platforms.  
-Expert in the **Node.js ecosystem**, micro-services, and third-party integrations.  
-Currently leading back-end development at **EButler (ENABLE platform, 500 + businesses)**.
+## About
 
----
+I'm a Senior Software Engineer at **AI71**, building multiple applications with **Python backends and React frontends**. I bring a background in backend architecture, SaaS products, microservices, and third-party integrations to my work across the stack.
 
-## ⚡ Quick Facts
-- 🚀 Took a green-field SaaS from 0 → 500 + active businesses.  
-- 💳 Integrated 10 + payment gateways processing **$500 K +/mo**.  
-- ⚡ Cut API latency by **40 %** through code & infra tuning.  
-- 👥 Managed teams of 5 + devs with **98 %** on-time delivery.  
+Previously at **EButler**, I worked on the **ENABLE platform**, optimized MongoDB structures and queries, managed development teams, and helped transition a monolithic application to microservices using Kafka and a monorepo approach. My experience also includes payment gateways, commerce integrations, marketplaces, and order-management systems.
 
----
+I focus on clear architecture, maintainable code, and practical solutions to product needs.
 
-## 💼 Experience
+## Current work
 
-| Period | Role & Company | Key Points |
-| ------ | -------------- | ---------- |
-| **May 2020 – Present** | **Senior Backend Developer / Integration Specialist — EButler (Qatar)** | • Lead 5-dev team for ENABLE SaaS.<br>• Scaled to 50 K + orders / month.<br>• Integrated Deliverect, Shopify, WooCommerce, Qatar payment services.<br>• Built Doha Festival City marketplace with MedusaJS. |
-| **Jun 2024 – Present (PT)** | **Senior Backend Engineer — Medhubeg (Egypt)** | • Built new NestJS + PostgreSQL back-end.<br>• Delivered full API docs ahead of schedule. |
-| **Dec 2022 – Dec 2023 (PT)** | **Senior Backend Developer — Baeynh (Remote)** | • Developed legal-services platform.<br>• Implemented secure NestJS + MySQL architecture. |
-| **Sep 2019 – May 2020** | **Full-Stack Developer — Edge Technology (Egypt)** | • Built e-commerce & marketplace services in Node.js. |
+**Senior Software Engineer · AI71**  
+November 2025–Present
 
----
+- Develop multiple applications using Python for backend functionality and React for frontend interfaces.
+- Work across backend logic and frontend features to connect application functionality with the user experience.
 
-## 🚀 Selected Projects
+## Engineering experience
 
-<details>
-<summary><strong>ENABLE SaaS Platform</strong> — all-in-one business suite</summary>
+- **Backend systems:** REST APIs, database design and query optimization, authentication, and application architecture.
+- **Distributed applications:** microservices, event-driven design, and messaging-based integrations.
+- **Commerce and SaaS:** order management, marketplace services, payment gateways, and Shopify/WooCommerce integrations.
+- **Team delivery:** managing development teams and delivering product features.
 
-*Scale*  500 + businesses · 50 K + orders/mo  
-*Stack*  Node.js · NestJS · MongoDB Atlas · Angular · Nginx  
-*Features*  e-Commerce Builder · CRM · OMS · Delivery · Payments  
+## Technology
 
-</details>
+| Area | Technologies |
+| --- | --- |
+| Current application stack | Python, React |
+| Backend | Node.js, TypeScript, JavaScript, NestJS, Express, MedusaJS |
+| Frontend and mobile experience | Angular, Ionic |
+| Data | MongoDB, PostgreSQL, MySQL, Redis |
+| Messaging | Kafka, RabbitMQ, NATS |
+| Infrastructure | Docker, Kubernetes, AWS, Jenkins |
+| Architecture | Microservices, event-driven systems, REST APIs, design patterns |
 
-<details>
-<summary><strong>Doha Festival City Marketplace</strong> — 50 + retailers</summary>
+## Selected experience
 
-*Stack*  MedusaJS · PostgreSQL · Redis · Algolia  
-*Highlights*  Sub-second page loads · 60 % faster discovery  
+**EButler / ENABLE — Backend development and integrations**  
+Built SaaS and order-management functionality, optimized MongoDB, integrated payment and commerce services, and contributed to the move from a monolith to microservices.
 
-</details>
+**Doha Festival City Marketplace**  
+Worked on marketplace development using MedusaJS, PostgreSQL, Redis, and Algolia.
 
-<details>
-<summary><strong>Enable Payment WooCommerce Plugin</strong></summary>
+**Medhubeg — Backend engineering**  
+Built backend services with NestJS and PostgreSQL and delivered API documentation.
 
-*Impact*  $500 K +/mo volume across 100 + sites  
-*Outcome*  Cut merchant integration time from 2 weeks → 2 hours  
+**Baeynh — Legal-services platform**  
+Developed the backend using Node.js, NestJS, and MySQL, with documented APIs.
 
-</details>
+**Edge Technology and Dopave — Full-stack development**  
+Built web applications and product features using Node.js and Angular.
 
----
+## Education
 
-## 🛠 Tech Stack
+**Computer Science · Ain Shams University**  
+2013–2017 · Grade: Very Good  
+Graduation project: a voice-controlled C++ editor.
 
-| **Category** | **Tools & Frameworks** |
-| ------------ | ---------------------- |
-| **Languages / Runtime** | Node.js • TypeScript • JavaScript |
-| **Frameworks** | NestJS • Express • MedusaJS • Angular |
-| **Databases** | MongoDB • PostgreSQL • MySQL • Redis |
-| **Messaging** | Kafka • RabbitMQ • NATS |
-| **DevOps / Cloud** | AWS • Docker • Kubernetes • Jenkins |
-| **Patterns** | Micro-services • Event-driven • REST • basic GraphQL |
+## Connect
 
----
-
-## 🎓 Education
-**B.Sc. Computer Science**, Ain Shams University, Cairo (2013 – 2017)  
-*Grade*: Very Good • *Project*: Voice-controlled C++ editor
-
----
-
-## 🏆 Achievements
-- WebSummit Lisbon **2021 & 2022** participant  
-- Promoted to **Senior** within one year at EButler  
-- Tech Lead on multiple high-impact projects  
-
----
-
-## 📊 GitHub Stats
-
-![Yousef’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefRabieKhalil&show_icons=true&theme=dark)
-
----
-
-## 🤝 Let’s Connect
-📧 [yousef.rabie@cis.asu.edu.eg](mailto:yousef.rabie@cis.asu.edu.eg) | 💼 [LinkedIn](https://www.linkedin.com/in/yousef-rabie-khalil) | 💻 [GitHub](https://github.com/YousefRabieKhalil)
-
----
-
-<p align="center">⭐️ &nbsp;Thanks for stopping by! &nbsp;⭐️</p>
+Find my broader experience on [LinkedIn](https://www.linkedin.com/in/yousef-rabie-khalil/), explore my [portfolio](https://yousef-rabie.com), or reach me at [contact@yousef-rabie.com](mailto:contact@yousef-rabie.com).
