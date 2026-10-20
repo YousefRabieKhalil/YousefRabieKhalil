@@ -22,6 +22,11 @@ November 2025–Present
 - Develop multiple applications using Python for backend functionality and React for frontend interfaces.
 - Work across backend logic and frontend features to connect application functionality with the user experience.
 
+## Public engineering projects
+
+- **[Webhook Workbench](https://github.com/YousefRabieKhalil/webhook-workbench)** — a personal Python + React sandbox demonstrating signed webhook intake, duplicate detection, retry backoff, and dead-letter recovery. Includes a dashboard, automated tests, and an architecture guide. Built with AI assistance; separate from employer work.
+- **[NestJS Module Generator](https://github.com/YousefRabieKhalil/nestjs-module-generator)** — a CLI for generating NestJS modules, controllers, services, DTOs, and related files using customizable Handlebars templates.
+
 ## Engineering experience
 
 - **Backend systems:** REST APIs, database design and query optimization, authentication, and application architecture.
